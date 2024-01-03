@@ -1,0 +1,272 @@
+
+body {
+    background-color: black;
+ 
+    margin: 3px gold;
+    
+}
+
+.headdiv {
+    color: gold;
+    
+}
+
+
+
+.nawtopdiv {
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid gold;
+    gap: 30px;
+}
+
+.nawdiv {
+    color: gold;
+    display: flex;
+    gap: 40px;
+    justify-content: none;
+    list-style-type: none;
+    height: 100px;
+    align-items: center;
+    /* align-self: ; */
+
+}
+
+.nawbar {
+    text-align: center;
+
+}
+
+.body {
+    text-align: center;
+    gap: 5px;
+    padding: 30px;
+    justify-content: center;
+}
+
+.imagoff {
+    box-sizing: border-box;
+    margin: 0;
+    padding: o;
+}
+
+.sec3mardp{
+    text-align: center
+}
+
+.girl {
+    width: 200px;
+    clip-path: circle();
+    width: 150px;
+    height: 150px;
+    
+}
+
+.imgoff1 {
+    box-sizing: border-box;
+    margin: 25px;
+    padding: 10px;
+
+
+}
+
+.girl1 {
+    width: 140px;
+    clip-path: circle();
+    height: 170px;
+    text-align: start;
+    
+}
+
+.imgoff2 {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.girl2 {
+    clip-path: circle();
+    width: 150px;
+    height: 150px;
+    
+}
+
+.imgoff3 {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.girl3 {
+    clip-path: circle();
+    width: 150px;
+    height: 150px;
+    
+}
+
+.imagoff4 {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.girl4 {
+    clip-path: circle();
+    width: 150px;
+    height: 150px;
+    
+}
+
+.imgoff5 {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.girl5 {
+    clip-path: circle();
+    width: 150px;
+    height: 150px;
+
+}
+
+.imgoff6 {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.girl6 {
+    clip-path: circle();
+    width: 150px;
+    height: 150px;
+    
+}
+
+.body {
+    display: flex;
+    align-content: center;
+    gap: 20px;
+
+}
+
+.secimg1{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+/* .secdiv2{
+    padding: 50px 50px 0 50px;
+    width: 900px;
+    height: 900vh;
+
+} */
+
+.divsec1 {
+    justify-content: center;
+    display: flex;
+    padding: 40px;
+}
+
+/* . {
+    display: flex;
+    align-content: center; */
+
+
+/* } */
+
+.sec2para {
+    color: pink;
+}
+
+.sec2para span {
+    color: red;
+}
+
+.sec23para {
+    color: white;
+}
+
+.sec23para span {
+    color: gold;
+}
+
+.houselight {
+    justify-content: center;
+}
+
+.sec24para {
+    color: gold;
+}
+
+.sec24para span {
+    color: white;
+}
+.sec24para{
+    color: silver;
+}
+.sec24para span{
+    color: orange;
+}
+.secdiv2{
+
+    justify-content: center;
+}
+.sec25para{
+    color: pink;
+}
+.secpar26{
+    color: silver;
+}
+.secpara27{
+    color: wheat;
+}
+
+/* .marrage a img{
+
+    width: 500px;
+    height: 500px;
+    transition: wi;
+} */
+
+.ouselight{
+
+    width: 700px;
+}
+
+.footdiv1{
+    color: white;
+    list-style: none;
+
+
+}
+.footdiv2{
+    color: white;
+    list-style: none;
+
+
+}
+.footdiv3{
+    color: white;
+    list-style: none;
+
+
+}
+.footdiv{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    border: 3px solid silver;
+}
+
+
+
+@media only screen and (max-width:500px) {
+    body{
+        background-color: azure;
+    }
+    
+}
